@@ -11,7 +11,7 @@ coreConfig.plugins = [
   livereload(),
   serve({
     open: true, // 自动打开页面
-    port: 3001, 
+    port: 3002, 
     openPage: '/example/index.html', // 打开的页面
     contentBase: ''
   })
